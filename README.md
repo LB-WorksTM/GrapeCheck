@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="data/pictures/icon_clean.png" alt="GrapeCheck Logo" width="150"/>
-
-![License](https://img.shields.io/badge/license-MIT-red)
-![Version](https://img.shields.io/badge/Pre-alpha-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)
+  <img src="data/pictures/icon_clean.png" alt="GrapeCheck Logo" width="150"/><br><br>
+  <img src="https://img.shields.io/badge/license-MIT-red" alt="License"/>
+  <img src="https://img.shields.io/badge/Pre-alpha-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows" alt="Platform"/>
 </p>
 
 #GrapeCheck (Pre-Alpha)
